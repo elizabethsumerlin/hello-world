@@ -1,2 +1,3 @@
 # hello-world
-Learning GitHub
+
+I am learning GitHub to explore my new interest in coding and development.
